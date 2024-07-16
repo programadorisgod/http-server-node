@@ -1,0 +1,17 @@
+{
+	"devDependencies": {
+		"@types/node": "^20.14.10"
+	},
+	"type": "module",
+	"name": "http",
+	"version": "1.0.0",
+	"main": "hello.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "node --watch hello.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
